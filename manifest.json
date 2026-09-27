@@ -1,0 +1,20 @@
+{
+  "name": "Laugh Village",
+  "short_name": "LaughVillage",
+  "description": "The funniest village on the internet - post jokes and become Chief!",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ed",
+  "theme_color": "#ff7a18",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
